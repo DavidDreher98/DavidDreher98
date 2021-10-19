@@ -2,8 +2,8 @@
 
 - 🧔 Desenvolvedor Web Júnior
 - 👔 Trabalhando com front-end e back-end
-- 🏆 Estudando VueJs - PHP - JavaScript
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🏆 Conhecimento em VueJs - PHP - JavaScript - CSS - SQL - Laravel
+- 🎓 Formado em Sistemas de Informação - UNC
 
 <div>
   <a href="https://github.com/DavidDreher98">  
