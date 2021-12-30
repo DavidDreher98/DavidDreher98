@@ -1,8 +1,8 @@
 ### Seja bem vindo, eu sou David Dreher: 👋
 
-- 🧔 Desenvolvedor Web Júnior
+- 🧔 Desenvolvedor Web
 - 👔 Trabalhando com front-end e back-end
-- 🏆 Conhecimento em VueJs - PHP - JavaScript - CSS - SQL - Laravel
+- 🏆 Conhecimento em PHP - JavaScript - Jquery - VueJs - CSS - SQL - Laravel - MySQL - FireBird
 - 🎓 Formado em Sistemas de Informação - UNC
 
 <div>
