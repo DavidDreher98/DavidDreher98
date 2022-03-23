@@ -2,7 +2,7 @@
 
 - 🧔 Desenvolvedor Web
 - 👔 Trabalhando com front-end e back-end
-- 🏆 Conhecimento em PHP - JavaScript - Jquery - VueJs - CSS - SQL - Laravel - MySQL - FireBird
+- 🏆 Conhecimento em PHP - JavaScript - Jquery - VueJs - NuxtJs - Vuex - CSS - SCSS - SQL - Laravel - MySQL - FireBird
 - 🎓 Formado em Sistemas de Informação - UNC
 
 <div>
