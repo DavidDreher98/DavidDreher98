@@ -6,6 +6,11 @@
 - 🎓 Formado em Sistemas de Informação - UNC
 - Portifólio: <a target="_blank" href="https://daviddreher.dev">daviddreher.dev</a>
 
+ <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DavidDreher98&show_icons=true&hide_border=false&theme=dark" width="48%"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DavidDreher98&theme=dark" width="48%">
+<br>  
+<br>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/DavidDreher98/count.svg" alt="Visitor Count" align="center" />
 </p>
