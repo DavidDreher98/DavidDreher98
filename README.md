@@ -12,6 +12,7 @@
 <br>  
 <br>
 <p align="center"> 
+  <span>Visitantes</span>
   <img src="https://profile-counter.glitch.me/DavidDreher98/count.svg" alt="Visitor Count" align="center" />
 </p>
   
