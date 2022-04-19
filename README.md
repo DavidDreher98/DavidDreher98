@@ -1,8 +1,8 @@
 ### Seja bem vindo, eu sou David Dreher: 👋
 
-- 🧔 Desenvolvedor Web
+- 🧔 Desenvolvedor Web full-stack
 - 👔 Trabalhando com front-end e back-end
-- 🏆 Conhecimento em PHP - JavaScript - Jquery - VueJs - NuxtJs - Vuex - CSS - SCSS - SQL - Laravel - MySQL - FireBird
+- 🏆 Conhecimento em PHP - NodeJs - VueJs - Vuex - Javascript - HTML - CSS - SCSS - jQuery - NuxtJs - Laravel - CodeIgniter - Git - GitHub - Docker - FireBird - MySql - MariaDB - MultiTenant - Bootstrap - Tailwind - DataTables - ChartJs - SwiperJs - WebSockets - Ajax - Axios - Curl - Postman.
 - 🎓 Formado em Sistemas de Informação - UNC
 
 <div>
