@@ -4,6 +4,7 @@
 - 👔 Trabalhando com front-end e back-end
 - 🏆 Conhecimento em PHP - NodeJs - VueJs - Vuex - Javascript - HTML - CSS - SCSS - jQuery - NuxtJs - Laravel - CodeIgniter - Git - GitHub - Docker - FireBird - MySql - MariaDB - MultiTenant - Bootstrap - Tailwind - DataTables - ChartJs - SwiperJs - WebSockets - Ajax - Axios - Curl - Postman.
 - 🎓 Formado em Sistemas de Informação - UNC
+- Portifólio: <a href="https://daviddreher.dev">daviddreher.dev</a>
 
 <div>
   <a href="https://github.com/DavidDreher98">  
@@ -22,7 +23,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/david.dreher.98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/david.dreher.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:david.dreier@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
