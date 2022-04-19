@@ -4,7 +4,7 @@
 - 👔 Trabalhando com front-end e back-end
 - 🏆 Conhecimento em PHP - NodeJs - VueJs - Vuex - Javascript - HTML - CSS - SCSS - jQuery - NuxtJs - Laravel - CodeIgniter - Git - GitHub - Docker - FireBird - MySql - MariaDB - MultiTenant - Bootstrap - Tailwind - DataTables - ChartJs - SwiperJs - WebSockets - Ajax - Axios - Curl - Postman.
 - 🎓 Formado em Sistemas de Informação - UNC
-- Portifólio: <a href="https://daviddreher.dev">daviddreher.dev</a>
+- Portifólio: <a target="_blank" href="https://daviddreher.dev">daviddreher.dev</a>
 
 <div>
   <a href="https://github.com/DavidDreher98">  
