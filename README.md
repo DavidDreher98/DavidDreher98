@@ -9,7 +9,8 @@
  <br>
 <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDreher98&theme=react&line_height=40&hide=css"/> </a>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidDreher98&theme=react&line_height=40&hide=css"/> </a>
-<img src="https://github-readme-stats.vercel.app/api?username=DavidDreher98&show_icons=true&hide_border=false&theme=dark" height="160px">  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DavidDreher98&theme=dark" height="160px">
+<a href=""> <img src="https://github-readme-stats.vercel.app/api?username=DavidDreher98&show_icons=true&hide_border=false&theme=dark" height="160px"> </a>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=DavidDreher98&theme=dark" height="160px">
 <br>  
 <br>
 <p align="center">Visitantes</p>
