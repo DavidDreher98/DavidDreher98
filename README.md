@@ -1,10 +1,10 @@
 ### Seja bem vindo, eu sou David Dreher: 👋
 
+- 🎓 Formado em Sistemas de Informação - UNC
 - 🧔 Desenvolvedor Web full-stack
 - 👔 Trabalhando com front-end e back-end
 - 🏆 Conhecimento em PHP - NodeJs - VueJs - Vuex - Pinia - Javascript - HTML - CSS - SCSS - jQuery - NuxtJs - Laravel - Electron - CodeIgniter - C# - Git - GitHub - Docker - FireBird - MySql - MariaDB - MultiTenant - Bootstrap - Tailwind - QuasarJS - DataTables - ChartJs - SwiperJs - WebSockets - Ajax - Axios - Curl - Postman.
-- 🎓 Formado em Sistemas de Informação - UNC
-- Portifólio: <a target="_blank" href="https://daviddreher.dev">daviddreher.dev</a>
+- 🌐 Portifólio: <a target="_blank" href="https://daviddreher.dev">daviddreher.dev</a>
 
  <br>
  <p align="center"> 
